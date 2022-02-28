@@ -8775,7 +8775,7 @@ DOMAIN-SUFFIX,snippet.pos.baidu.com,REJECT
 DOMAIN-SUFFIX,sp0.baidu.com,REJECT
 DOMAIN-SUFFIX,stat.v.baidu.com,REJECT
 DOMAIN-SUFFIX,static.su.baidu.com,REJECT
-DOMAIN-SUFFIX,sv.map.baidu.com,REJECT
+DOMAIN-SUFFIX,sv.map.baidu.com,DIRECT
 DOMAIN-SUFFIX,t10.baidu.com,REJECT
 DOMAIN-SUFFIX,t11.baidu.com,REJECT
 DOMAIN-SUFFIX,t12.baidu.com,REJECT
