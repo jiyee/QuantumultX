@@ -8761,12 +8761,8 @@ DOMAIN-SUFFIX,cpro2.baidustatic.com,REJECT
 DOMAIN-SUFFIX,dup.baidustatic.com,REJECT
 DOMAIN-SUFFIX,idm.bce.baidu.com,REJECT
 DOMAIN-SUFFIX,imageplus.baidu.com,REJECT
-DOMAIN-SUFFIX,itsdata.map.baidu.com,REJECT
 DOMAIN-SUFFIX,log.music.baidu.com,REJECT
 DOMAIN-SUFFIX,log.waimai.baidu.com,REJECT
-DOMAIN-SUFFIX,newvector.map.baidu.com,REJECT
-DOMAIN-SUFFIX,offnavi.map.baidu.com,REJECT
-DOMAIN-SUFFIX,ps.map.baidu.com,REJECT
 DOMAIN-SUFFIX,res.mi.baidu.com,REJECT
 DOMAIN-SUFFIX,rigel.baidustatic.com,REJECT
 DOMAIN-SUFFIX,s.cpro.baidu.com,REJECT
@@ -8775,7 +8771,6 @@ DOMAIN-SUFFIX,snippet.pos.baidu.com,REJECT
 DOMAIN-SUFFIX,sp0.baidu.com,REJECT
 DOMAIN-SUFFIX,stat.v.baidu.com,REJECT
 DOMAIN-SUFFIX,static.su.baidu.com,REJECT
-DOMAIN-SUFFIX,sv.map.baidu.com,DIRECT
 DOMAIN-SUFFIX,t10.baidu.com,REJECT
 DOMAIN-SUFFIX,t11.baidu.com,REJECT
 DOMAIN-SUFFIX,t12.baidu.com,REJECT
