@@ -1,6 +1,6 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
-# Current total domain name : 43,000+ 
+# Current total domain name : 43,000+
 # Update time : 2021.2.27
 
 # AdRule
@@ -6385,7 +6385,6 @@ DOMAIN-SUFFIX,seg.sharethis.com,REJECT
 DOMAIN-SUFFIX,segment.com,REJECT
 DOMAIN-SUFFIX,selfie.snapmobileasia.net,REJECT
 DOMAIN-SUFFIX,sell1.etlong.com,REJECT
-DOMAIN-SUFFIX,sensorsdata.ruguoapp.com,REJECT
 DOMAIN-SUFFIX,serial.alcohol-soft.com,REJECT
 DOMAIN-SUFFIX,serrano.hardwareheaven.com,REJECT
 DOMAIN-SUFFIX,serve.popads.net,REJECT
